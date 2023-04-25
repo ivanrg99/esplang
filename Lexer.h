@@ -4,6 +4,8 @@
 #include <vector>
 #include <unordered_map>
 
+#include "Expr.h"
+
 namespace esplang {
     class Lexer {
     public:

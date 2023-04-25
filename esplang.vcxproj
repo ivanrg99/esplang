@@ -142,6 +142,7 @@
     <ClCompile Include="utils.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Expr.h" />
     <ClInclude Include="Lexer.h" />
     <ClInclude Include="Token.h" />
     <ClInclude Include="TokenType.h" />
